@@ -2,7 +2,7 @@
 div:empty, span:empty, li:empty, p:empty, td:empty, th:empty
 { padding: 20px; border: 5px dotted yellow !important; }
 
-/* Empty Attributes */
+/* Empty Attributes. */
 *[alt=""], *[title=""], *[class=""], *[id=""], a[href=""], a[href="#"]
 { border: 5px solid yellow !important; }
 
